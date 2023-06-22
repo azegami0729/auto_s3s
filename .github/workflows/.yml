@@ -1,4 +1,4 @@
-name: Extend CI
+name: commit-push
 
 on:
   schedule:
